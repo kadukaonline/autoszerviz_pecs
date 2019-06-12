@@ -621,7 +621,7 @@ body.md-skin-dark {
 }
 
 p {
-    margin-bottom: 16px;
+    margin-bottom: 30px;
 }
 
 a {
@@ -1746,6 +1746,7 @@ ul {
     bottom: -45px;
     margin-top: 0;
 }
+
 
 
 /* 11. socialicon
