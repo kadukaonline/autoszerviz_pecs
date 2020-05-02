@@ -2616,3 +2616,20 @@ ul {
 .mfp-zoom-in.mfp-removing.mfp-bg {
     opacity: 0;
 }
+
+
+.table.tbody.tr.td{
+    padding-right: 15px
+}
+
+.tg-oqs5{
+    padding-right: 15px
+}
+.tg_0{
+    border-collapse: separate;
+}
+.hirdetes_link{
+    color:#748182;
+    text-decoration: none; 
+   background-color: none;
+}
